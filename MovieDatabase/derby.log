@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Mar 06 15:51:29 MST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0178-09bd-123d-000007407f80 
+on database directory C:\Users\angry\Desktop\2021\CSIS2410\MovieDatabase\FirstDatabase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
+Loaded from file:/C:/Users/angry/Desktop/2021/CSIS2410/MovieDatabase/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.10+8-LTS-162
+user.dir=C:\Users\angry\Desktop\2021\CSIS2410\MovieDatabase
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
